@@ -1,4 +1,5 @@
 {-# LANGUAGE DeriveDataTypeable, StandaloneDeriving, CPP #-}
+{-# LANGUAGE TypeSynonymInstances #-}
 -----------------------------------------------------------------------------
 -- |
 -- Module      :  Data.Generics.Instances
